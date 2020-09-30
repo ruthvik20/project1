@@ -1,0 +1,14 @@
+body {
+    background: url(3.jpg) no-repeat center fixed;
+background-size: cover;
+
+}
+h2 {
+    background-color:rgb(238, 255, 0);
+}
+p {color:rgb(0, 225, 255);
+    
+}
+table, th, td {
+    border: 1px solid orangered;
+  }
